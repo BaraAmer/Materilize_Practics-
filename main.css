@@ -1,0 +1,26 @@
+
+
+h3 {
+    text-align: center;
+    text-shadow: 10px;
+    color: black;   
+}
+
+.title {
+    margin: 25px;
+
+}
+
+.nav{
+    display: flex;
+    background-color: darkgray;
+
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+   margin-left: 40px;
+   font-weight: bold;
+   font-size: large;
+}
